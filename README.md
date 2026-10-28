@@ -3,9 +3,6 @@
   <h1>Nómina Quincenal</h1>
   <p><b>App de escritorio para capturar, calcular y autorizar la nómina quincenal de un grupo de varias empresas, con separación de funciones entre quien la arma y quien la aprueba.</b></p>
   <p>
-    <a href="https://github.com/RexGhidorah/nomina-quincenal/releases/latest"><img src="https://img.shields.io/badge/▶_Descargar_demo_(Windows)-000?style=for-the-badge" alt="Demo"></a>
-  </p>
-  <p>
     <img src="https://img.shields.io/badge/.NET-10-512BD4?style=flat-square&labelColor=0d1117" alt=".NET 10">
     <img src="https://img.shields.io/badge/WPF-MVVM-0C54C2?style=flat-square&labelColor=0d1117" alt="WPF">
     <img src="https://img.shields.io/badge/ASP.NET_Core-Minimal_API-5C2D91?style=flat-square&labelColor=0d1117" alt="ASP.NET Core">
